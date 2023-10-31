@@ -20,7 +20,7 @@ var assunto = "Assunto do email";
 
 
 var mensagem = "Prezado(a) " + nome + ",<br><br>" +
-  "mensagem do emauk
+  "mensagem do email"
 
 
 
